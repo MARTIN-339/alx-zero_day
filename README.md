@@ -1,1 +1,1 @@
-My first readme
+first git to work on solo
